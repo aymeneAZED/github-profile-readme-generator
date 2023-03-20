@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour👋, je suis AZEGGAGH Aymene</h1>
 <h3 align="center">Etudiant Master Expert Cloud,  security et infrastructures a Paris Ynov Campus</h3>
 
-- 📫 How to reach me **aymene.azeggagh@ynov.com**
+- 📫 How to reach me **aymeneazegg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
