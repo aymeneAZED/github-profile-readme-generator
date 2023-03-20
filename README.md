@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour👋, je suis AZEGGAGH Aymene</h1>
-<h3 align="center">Etudiant en B3 informatique Spécialité Infra & SI a Aparis Ynov Campus, Je suis a la recherche d'une stage</h3>
+<h3 align="center">Etudiant Master Expert Cloud,  security et infrastructures a Paris Ynov Campus</h3>
 
 - 📫 How to reach me **aymene.azeggagh@ynov.com**
 
